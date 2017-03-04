@@ -1,6 +1,6 @@
 <h2>Rails app to determine a store's proximity to the Verve HQ</h2>
 
-```git clone http```<br>
+```git clone https://github.com/davehelms/offers-by-distance.git```<br>
 ```cd offers-by-distance```<br>
 ```bundle install```<br>
 
