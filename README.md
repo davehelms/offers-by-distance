@@ -1,24 +1,9 @@
-# README
+<h2>Rails app to determine a store's proximity to the Verve HQ</h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```git clone http```<br>
+```cd offers-by-distance```<br>
+```bundle install```<br>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2>Import a list of Places in the format: </h2>
+<h6>name*	address_1* address_2 postal_code_name* postal_code_suffix phone_number latitude* longitude* radius*</h6>
+```* denotes required field```
